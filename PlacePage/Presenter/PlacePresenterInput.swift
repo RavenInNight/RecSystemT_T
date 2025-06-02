@@ -1,3 +1,0 @@
-protocol PlacePresenterInput {
-    func viewDidLoad()
-}
